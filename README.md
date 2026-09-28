@@ -1,7 +1,7 @@
 # Geometric Forgeries: MAYO Cost Optimizer
 
 This directory contains the optimization code accompanying the paper
-**“Geometric Forgeries: Cryptanalysis of MAYO.”** It reproduces the classical
+**“Geometric Forgeries: Structural Cryptanalysis of MAYO.”** It reproduces the classical
 bit-complexity estimates for the generic Pseudo-Oil attack and for the
 multi-target, structural, and combined attacks described in the paper.
 
